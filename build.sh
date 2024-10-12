@@ -1,3 +1,0 @@
-source .devcontainer/.bashrc
-
-build

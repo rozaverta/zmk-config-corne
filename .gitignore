@@ -4,7 +4,9 @@ zephyr/
 modules/
 tools/
 .west/
+.idea/
 firmware/
 *.uf2
+*.iml
 **/local_macros.*
 local_only/
